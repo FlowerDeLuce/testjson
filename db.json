@@ -1,0 +1,14 @@
+list: [
+    {type: 'heading1', content: '11525', id: `1`},
+    {type: 'heading2', content: '1155', id: `2`},
+    {type: 'text', content: '1155', id: `21`},
+    {
+      type: 'checkbox',
+      content: ' 11texttext55 11texttext5511texttext55 11texttext55 11texttext55 11texttext55 11texttext5511texttext55 11texttext55',
+      checked: true,
+      id: `3`
+    },
+    {type: 'image', src: 'img', id: `4`},
+    {type: 'video', src: 'https://youtu.be/Rqf3J4ZOPCw', id: `5`},
+
+  ],
